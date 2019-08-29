@@ -11,6 +11,10 @@
 - The Wikipedia Page on the [Linear Congruential Generator](https://en.wikipedia.org/wiki/Linear_congruential_generator), the pseudorandom number generator we have been looking at, is quite detailled. Feel free to follow the links at the botom 
 - If you are interested in TEX and markup languages, maybe you find this old text of mine interesting: [TEX - digital typesetting](http://en.slow-media.net/tex)
 
+**Books**
+- [The computational beauty of nature](http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph001470337&context=L&vid=NYU&search_scope=all&tab=all&lang=en_US) : computer explorations of fractals, chaos, complex systems, and adaptation, by Gary William.
+- [A New Kind of Science](http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph000778690&context=L&vid=NYU&search_scope=all&tab=all&lang=en_US) by Stephen Wolfram
+
 ### Material, scripts, etc:
 - [Nature of Code Examples in p5.js](https://github.com/nature-of-code/noc-examples-p5.js)
 - The html script [html_boilerplate.html](https://github.com/jbenno/nyuad_decoding_nature/blob/master/01_Introduction/html_boilerplate.html) is a simple template for a single web page to display the code in [test1.js](/test1.js)./
