@@ -8,6 +8,9 @@
 - The Antykithera mechanism, decoding nature 2500 years ago
 [Decoding an Ancient Computer (pdf)](http://www.cs.virginia.edu/~robins/Decoding_an_Ancient_Computer.pdf)
 - [Chance vs. Randomness](https://plato.stanford.edu/entries/chance-randomness/)
+- [Ibn Sina's Natural Philosophy](https://plato.stanford.edu/entries/ibn-sina-natural/index.html) - Avicenna how the philosopher Abū Alī al-Husain ibn Abd Allāh ibn Sīnā is called in Latin can be regarded as a pivotal point in thinking about randomness and necessity. I mention it here because to me, the idea of a mechanical universe with all the questions it entails is the intellectual frame in which the decodability of nature (turning nature into algorithms) sits.
+- [Goedel, Escher, Bach](http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph001509616&context=L&vid=NYU&search_scope=all&isFrbr=true&tab=all&lang=en_US) by Douglas Hofstadter is the book about how the mind might be the result of algorithms running in our brain ... it is also a very nice read about many interesting ideas of the three minds it has in its title.
+- More general is the so called [hard problem of consciousness](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness) - we will come to this later in the course again. The discussions is still vibrant and as unresolved as 30 years ago.
 - The Wikipedia Page on the [Linear Congruential Generator](https://en.wikipedia.org/wiki/Linear_congruential_generator), the pseudorandom number generator we have been looking at, is quite detailled. Feel free to follow the links at the botom 
 - If you are interested in TEX and markup languages, maybe you find this old text of mine interesting: [TEX - digital typesetting](http://en.slow-media.net/tex)
 
