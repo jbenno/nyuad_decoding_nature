@@ -14,6 +14,7 @@
 **Books**
 - [The computational beauty of nature](http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph001470337&context=L&vid=NYU&search_scope=all&tab=all&lang=en_US) : computer explorations of fractals, chaos, complex systems, and adaptation, by Gary William.
 - [A New Kind of Science](http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph000778690&context=L&vid=NYU&search_scope=all&tab=all&lang=en_US) by Stephen Wolfram
+- [Tilings and Patterns](http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph004382597&context=L&vid=NYU&search_scope=all&isFrbr=true&tab=all&lang=en_US) by B. Grunbaum and GC. Shephard.
 
 ### Material, scripts, etc:
 - [Nature of Code Examples in p5.js](https://github.com/nature-of-code/noc-examples-p5.js)
