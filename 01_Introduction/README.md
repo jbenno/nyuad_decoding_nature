@@ -9,7 +9,7 @@
 [Decoding an Ancient Computer (pdf)](http://www.cs.virginia.edu/~robins/Decoding_an_Ancient_Computer.pdf)
 - [Chance vs. Randomness](https://plato.stanford.edu/entries/chance-randomness/)
 - The Wikipedia Page on the [Linear Congruential Generator](https://en.wikipedia.org/wiki/Linear_congruential_generator), the pseudorandom number generator we have been looking at, is quite detailled. Feel free to follow the links at the botom 
-- If you are interested in TEX and markup languages, maybe you find this old text of mine interesting: [TEX - digital typesetting}(http://en.slow-media.net/tex)
+- If you are interested in TEX and markup languages, maybe you find this old text of mine interesting: [TEX - digital typesetting](http://en.slow-media.net/tex)
 
 ### Material, scripts, etc:
 - [Nature of Code Examples in p5.js](https://github.com/nature-of-code/noc-examples-p5.js)
@@ -24,10 +24,11 @@ There are a number of free editors for html, Javascript, and other languages, e.
 p5js.org provides a simple editor and sandbox environment, too. It is a very good first start to play arround with Javascript: [https://editor.p5js.org](https://editor.p5js.org).
 
 ### The random walk example
-[](https://editor.p5js.org/natureofcode/sketches/Hk4LOoSvx)\
+[The random walker](https://editor.p5js.org/natureofcode/sketches/Hk4LOoSvx)\
 Remember how to get to the "hidden" files with the definition of the Walker's details: ![Screenshot](IMG_0023.jpg)
 
 ### Assignments
+*We will discuss the results of your homework on Monday and Wednesday*
 
 Playing with code is essential for your understanding of how the things here work. So please go ahead. Nothing can break. It is not important that you succeed (at least not always or immediately). Just play arround. Don't get stuck. If something isn't working, don't give it more than an hour - just move on to something different. Feel free to reach out to me - I am happy to sit together with you over your task on Tuesday.
 
