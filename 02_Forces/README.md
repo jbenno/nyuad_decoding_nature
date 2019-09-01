@@ -6,3 +6,6 @@
 ### Vectors and Algebra
 
 ### Forces
+
+A very good (although very sophisticated) introduction to classical mechanics is Leonard Susskind's lecture - I use a lot of his didactics in this class:
+[Susskind, Classical Mechanics 1](https://youtu.be/ApUFtLCrU90)
