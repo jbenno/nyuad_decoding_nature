@@ -10,3 +10,9 @@
 * Newton's laws and circular movements
 * Springs
 * Waves
+* Fourier transformation
+* Lissajous curves
+
+### Examples
+[Spring}(/03_Oscillation/spring.js)
+### Assignment
