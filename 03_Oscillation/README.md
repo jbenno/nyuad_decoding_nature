@@ -14,5 +14,5 @@
 * Lissajous curves
 
 ### Examples
-[Spring}(/03_Oscillation/spring.js)
+[Spring](/03_Oscillation/spring.js)
 ### Assignment
