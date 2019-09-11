@@ -29,7 +29,13 @@
 * Lissajous curves
 
 ### Examples
-[Spring](/03_Oscillation/spring.js)
+- [Spring](/03_Oscillation/spring.js)
+- [Simple Pendulum](https://editor.p5js.org/natureofcode/sketches/SyXJrlZOl)
+- [Double Pendulum](https://editor.p5js.org/jbenno/sketches/t1lYO67xZ)
+- [Wavemaker Example](https://p5js.org/examples/interaction-wavemaker.html)
+- [Oscillator](https://editor.p5js.org/jbenno/sketches/clt1C3vPP)
+- [Interference](https://editor.p5js.org/jbenno/sketches/eNp3esBbh)
 
 ### Assignment
 - Read the material in the section 'Generative Art and Design' above.
+- 
