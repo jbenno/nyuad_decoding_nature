@@ -33,9 +33,17 @@
 - [Simple Pendulum](https://editor.p5js.org/natureofcode/sketches/SyXJrlZOl)
 - [Double Pendulum](https://editor.p5js.org/jbenno/sketches/t1lYO67xZ)
 - [Wavemaker Example](https://p5js.org/examples/interaction-wavemaker.html)
+- [Lissajous curves](https://editor.p5js.org/jbenno/sketches/HE-4rW_co)
 - [Oscillator](https://editor.p5js.org/jbenno/sketches/clt1C3vPP)
 - [Interference](https://editor.p5js.org/jbenno/sketches/eNp3esBbh)
+- [Fourier Series](https://editor.p5js.org/jbenno/sketches/TTC2jSt-5)
+- [Drawing with Epicycles](https://thecodingtrain.com/CodingChallenges/130.1-fourier-transform-drawing.html)
 
 ### Assignment
 - Read the material in the section 'Generative Art and Design' above.
+- Explore the examples.
+- Make a demo (animation, application, whatever) which uses curves, oscillations, etc. and is interactive (has some kind of user interface like reacting to mouse clicks, buttons, sliders etc.)
+- Start drafting what you want to do as your first project (you present your proposals next Wednesday and we discuss; project due in two weeks)
+- On-going from now on: think of something you want to share in form of a short demo, presentation, critique on something you read, etc.; can be anything realted to the course, to generative art and animation.
+- 
 - 
