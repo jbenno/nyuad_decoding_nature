@@ -28,6 +28,9 @@
 * Fourier transformation
 * Lissajous curves
 
+### Complex numbers
+some examples: [/03_Oscillation/Examples/complex/](/03_Oscillation/Examples/complex/)
+
 ### Examples
 - [Spring](/03_Oscillation/spring.js)
 - [Simple Pendulum](https://editor.p5js.org/natureofcode/sketches/SyXJrlZOl)
