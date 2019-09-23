@@ -30,13 +30,13 @@ Office Hours: Tuesdays. Please make an appointment via mail.
 
 ### Week 3 - [Oscillation](03_Oscillation)
 
-### Week 4 - [Particle Systems - and Project 1 proposals](04_Particles)
+### Week 4 - [Particle Systems](04_Particles)
 
-### Week 5 - [Particle Systems, Autonomous Agents - and Midterm Project discussion]
+### Week 5 - [Particle Systems, Autonomous Agents]
 
-### Week 6 - [Autonomous Agents, Midterm Project preparation, maybe Fractals]
+### Week 6 - [Autonomous Agents Fractals]
 
-### Week 7 - [Midterm Project presentation, Fractals]
+### Week 7 - [Fractals]
 
 - Fall Break
 
