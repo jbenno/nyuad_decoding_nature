@@ -32,19 +32,21 @@ Office Hours: Tuesdays. Please make an appointment via mail.
 
 ### Week 4 - [Particle Systems - and Project 1 proposals](04_Particles)
 
-### Week 5 - [Particle Systems, Autonomous Agents - and Project 1 presentation]
+### Week 5 - [Particle Systems, Autonomous Agents - and Midterm Project discussion]
 
-### Week 6 - [Autonomous Agents]
+### Week 6 - [Autonomous Agents, Midterm Project preparation, maybe Fractals]
 
-### Week 7 - [Physics Libraries]
+### Week 7 - [Midterm Project presentation, Fractals]
 
-### Week 8 - [Genetic Algorithms - and Project 2 proposals]
+- Fall Break
 
-### Week 9 - [Machine Learning - and Project 2 presentation]
+### Week 8 - [Cellular Automata and Genetic Algorithms]
+
+### Week 9 - [Machine Learning]
 
 ### Week 10 - [Neural Networks]
 
-### Week 11 - [Final Project Proposals]
+### Week 11 - [Final Project Proposals, and summary of the topics so far]
 
 ### Week 12 - [Final Project Proposals]
 
@@ -62,8 +64,8 @@ Grading
 **10%** Attendance  
 **15%** Participation  
 **20%** Homework Assignments  
-**30%** Projects #1 & #2 (15% each)    
-**25%** Final Project  
+**20%** Midterm Project    
+**30%** Final Project  
 
 Rubrics - each 30 points:
 * Technical - completion of the technical task, technical competency and insights, documentation
@@ -71,9 +73,8 @@ Rubrics - each 30 points:
 * User experience -  usability, design, intuitivity
 
 Scale
-* A+: From 88 to 90 points,
-* A: From 85 to 87 points,
-* A-: From 80 to 84 points,
+* A: From 86 to 90 points,
+* A-: From 80 to 85 points,
 * B+: From 75 to 79 points,
 * B: From 70 to 74 points,
 * B-: From 65 to 69 points,
