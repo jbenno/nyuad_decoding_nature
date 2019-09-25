@@ -27,12 +27,11 @@ class Complex {
   
   conjc() {
     // creates the complex conjugate
-    const re = this.re;
-    const im = - this.im;
-    return new Complex(re,im);
+    this.im = - this.im;
+ 
   }
   
-  absc() {
+  absc(c) {
     // the absolute (scalar) value of a complex number
     let a;
     const re = this.re;
@@ -40,8 +39,18 @@ class Complex {
     a = sqrt((re)**2 + (im)**2);
     return a;
   }
-
+  
 }
+
+function recc(c) { 
+    const re = c.re;
+    const im = c.im;
+    rr = re/(re**2 + im**2);
+    ii = - im/(re**2 + im**2);
+
+    return new Complex(rr,ii);
+ }  
+
 
 function argc(c) {
       let theta = 0;
