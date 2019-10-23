@@ -32,12 +32,11 @@ Office Hours: Tuesdays. Please make an appointment via mail.
 
 ### Week 4 - [Particle Systems](04_Particles)
 
-### Week 5 - [Particle Systems, Autonomous Agents]
+### Week 5 - [Particle Systems, Autonomous Agents](05)
 
-### Week 6 - [Autonomous Agents Fractals]
+### Week 6 - [Fractals](06)
 
-### Week 7 - [Fractals]
-
+### Week 7 - [Cellular Automata](07)
 - Fall Break
 
 ### Week 8 - [Cellular Automata and Genetic Algorithms]
