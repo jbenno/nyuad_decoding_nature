@@ -39,7 +39,7 @@ Office Hours: Tuesdays. Please make an appointment via mail.
 ### Week 7 - [Cellular Automata](07)
 - Fall Break
 
-### Week 8 - [Cellular Automata and Genetic Algorithms]
+### Week 8 - [Cellular Automata and Genetic Algorithms](/08)
 
 ### Week 9 - [Machine Learning]
 
