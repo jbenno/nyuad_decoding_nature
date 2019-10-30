@@ -19,7 +19,8 @@ Monday 11/11/2019 is Open Studios. We might have class continued 1800 to 1900.
   - 
   
   ### Assignments
-  - Come up with a genetic algorithm (e.g. use Shiffman's examples)
+  - Read [Dewdney Genetic Algorithms](https://www.jstor.org/stable/24967834?seq=1#metadata_info_tab_contents)
+  - Come up with a genetic algorithm (e.g. use Shiffman's examples; build a 'Primordial Soup' like in Dewdney's article)
   - Alternatively: Write a cellular automaton with a genetic rule
   - Related to this: Read [Mizas et al: Reconstruction of DNA sequences using genetic algorithms and cellular automata](https://www.sciencedirect.com/science/article/pii/S0303264707001815?via%3Dihub)
   - Read [Globus et al. Automated Antenna Design](http://alglobus.net/NASAwork/papers/Space2006Antenna.pdf)
