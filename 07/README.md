@@ -1,4 +1,4 @@
-# Week 7 to 9 Cellular Automata
+# Week 7 to 8 Cellular Automata
 (Week 8 is only the short class due to legislative day)
 
 - [Stephen Wolfram, A New Kind of Science](https://www.wolframscience.com/nks/)
