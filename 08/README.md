@@ -15,8 +15,7 @@ Monday 11/11/2019 is Open Studios. We might have class continued 1800 to 1900.
 - Examples
   - [Simulated annealing example](https://editor.p5js.org/BIGfoot/sketches/6hot9Ssgm)
   - [Simple Genetic Algorithm in processing](http://shubhamkumar.live/blog/genetic-algorithm)
-  - [Smart Rockets form The Coding Train](https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_029_SmartRockets/P5)
-  - 
+  - [Smart Rockets from The Coding Train](https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_029_SmartRockets/P5)
   
   ### Assignments
   - Read [Dewdney Genetic Algorithms](https://www.jstor.org/stable/24967834?seq=1#metadata_info_tab_contents)
