@@ -1,4 +1,4 @@
-# Week 8 / 9 Genetic Algorithms
+# Week 9/10 Genetic Algorithms
 (Week 8 was only one short class)
 
 ### Open Studios
