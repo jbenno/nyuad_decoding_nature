@@ -23,11 +23,19 @@
 - [Machine Learning on AWS](https://aws.amazon.com/machine-learning/)
 
 
-### Tensor Flow
+### TensorFlow
 - [TensorFlow for beginners](http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005584260&context=L&vid=NYU&search_scope=all&tab=all&lang=en_US)
 - [Introduction to TensorFlow-Slim : complex TensorFlow model building and training made easy by Marvin Bertin](http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005580498&context=L&vid=NYU&search_scope=all&tab=all&lang=en_US)
 - [Learning TensorFlow : a guide to building deep learning systems by Hope et al.](http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005581567&context=L&vid=NYU&search_scope=all&tab=all&lang=en_US)
 
+### p5.js examples
+
+- [Simple interactive linear regression](https://editor.p5js.org/Lillbre/sketches/HyutFWkvX)
+- [Linear regression with TensorFlow](https://editor.p5js.org/codingtrain/sketches/UtOWCSYYF)
+- [Polinomial regression with TensorFlow](https://editor.p5js.org/codingtrain/sketches/UdXRZxF7e)
+- [Logistic regression](https://medium.com/creative-coding-space/look-no-hands-logistic-regression-classification-in-plain-ole-javascript-e82447e8966a)
+- [Running code for this example](https://editor.p5js.org/jbenno/sketches/RWkRt-4-n)
+- [Perceptron](https://editor.p5js.org/jbenno/sketches/1MKRXfx9O)
 
 ## Assignments
 - Read and go through the AI ethics and AI art material above
