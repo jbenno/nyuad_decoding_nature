@@ -13,6 +13,8 @@
 - Trevor Paglen and Kate Crawford on their project ImageNet-Roulette: [Excavating AI](https://www.excavating.ai); The Guardian on the project: [The viral selfie app ImageNet Roulette seemed fun – until it called me a racist slur](https://www.theguardian.com/technology/2019/sep/17/imagenet-roulette-asian-racist-slur-selfie); and the exhibition of their work at Fondazione Prada: [Training Humans](http://www.fondazioneprada.org/project/training-humans/?lang=en)
 - Zach Blas: [I am here to learn so :))))))](http://www.zachblas.info/works/im-here-to-learn-so/) and [Icosahedron](http://www.zachblas.info/works/icosahedron/)
 
+- [Creative AI newsletter](https://medium.com/@elluba/creative-ai-newsletter-9-art-design-and-music-updates-over-the-past-few-months-d0ccf838b72e)
+
 ## Methods and Code
 - Very good introduction to neural networks working along recognizing handwritten numbers: [Michael Nielsen: Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 - [Christopher Olah's blog](http://colah.github.io)
