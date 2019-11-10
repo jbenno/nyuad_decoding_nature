@@ -24,34 +24,26 @@ Office Hours: Tuesdays. Please make an appointment via mail.
 
 ## Schedule
 
-### Week 1 - [Introduction](01_Introduction )
+#### Week 1 - [Introduction](01_Introduction )
 
-### Week 2 - [Forces and Laws of Motion](02_Forces)
+#### Week 2 - [Forces and Laws of Motion](02_Forces)
 
-### Week 3 - [Oscillation](03_Oscillation)
+#### Week 3 - [Oscillation](03_Oscillation)
 
-### Week 4 - [Particle Systems](04_Particles)
+#### Week 4 - [Particle Systems](04_Particles)
 
-### Week 5 - [Particle Systems, Autonomous Agents](05)
+#### Week 5 - [Particle Systems, Autonomous Agents](05)
 
-### Week 6 - [Fractals](06)
+#### Week 6 - [Fractals](06)
 
-### Week 7 - [Cellular Automata](07)
+#### Week 7 - [Cellular Automata](07)
 - Fall Break
 
-### Week 8 - [Cellular Automata and Genetic Algorithms](/08)
+#### Week 8 - [Cellular Automata and Genetic Algorithms](/08)
 
-### Week 9 - [Machine Learning]
+#### Week 9 to 11 - [Machine Learning and Neural Networks](/09)
 
-### Week 10 - [Neural Networks]
-
-### Week 11 - [Final Project Proposals, and summary of the topics so far]
-
-### Week 12 - [Final Project Proposals]
-
-### Week 13 - [User Testing Workshop]
-
-### Week 14 - [Final Project Presentations]
+#### Week 11 to 14 - [Final Project](/10_Final_Project)
 
 
 Teaching Methodology
@@ -60,10 +52,10 @@ This is a production-based course that involves programming work both inside and
 
 Grading
 -------
-**10%** Attendance  
-**15%** Participation  
-**20%** Homework Assignments  
-**20%** Midterm Project    
+**10%** Participation (attendance, active participation in class)
+**15%** Homework Assignments
+**15%** Presentation  
+**30%** Midterm Project  
 **30%** Final Project  
 
 Rubrics - each 30 points:
@@ -94,20 +86,12 @@ Homework will be evaluated on a 3 point scale:
 * **1: Creative** - demonstration of creative expression    
 * **1: Usability** - attempt to make the work usable    
 
-Projects 1 & 2
+Midterm Project
 --------------
-These two projects can be thought of as mini-mid terms. Both will build off preceding homework assignments thus allowing you to iteratively build towards their completion. For both projects, you will be expected to present your site, discuss your work, articulate your creative process, and document the entire project.
+The midterm project will build off preceding homework assignments. You will be expected to present your site, discuss your work, articulate your creative process, and document the entire project.
 
-Final Project
--------------
-Your final project will require developing a comprehensive single page web experience that includes:
-
-* client-side and server-side web development
-* at least one public web API (or queryable data set) as a data source
-* at least one javascript “interaction” library
-* database storage  
-* public web API routes to serve and share your stored data  
-* documentation for both the project and the open web API
+[Final Project](/10_Final_Project)
+--------------
 
 Readings
 --------
