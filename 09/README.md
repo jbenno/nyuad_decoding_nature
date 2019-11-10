@@ -1,5 +1,7 @@
 # Weeks 9 and 10 Machine Learning and Neural Networks
 
+[Job Posting: Research and Teaching Assistent](https://app.joinhandshake.com/jobs/3287798?utm_source=activity_mailer&utm_medium=email&utm_campaign=notification_email)
+
 ## AI Philosophy and Art
 
 ### AI Ethics
