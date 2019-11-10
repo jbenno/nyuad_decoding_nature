@@ -1,6 +1,8 @@
-# Weeks 9 and 10 Machine Learning and Neural Networks
+# Weeks 9 to 11 Machine Learning and Neural Networks
 
 [Job Posting: Research and Teaching Assistent](https://app.joinhandshake.com/jobs/3287798?utm_source=activity_mailer&utm_medium=email&utm_campaign=notification_email)
+
+[Final Project](/10_Final_Project)
 
 ## AI Philosophy and Art
 
