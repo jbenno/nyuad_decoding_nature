@@ -43,10 +43,14 @@ The goal is to have the project be presentable at the IM show case.
   
   
  ### Schedule
- - Week 11  Discussion, proposals
- - Week 12 and 13  Iteration, discussion, studio class
- - Week 14  Projects get finished.
-    - Monday 2 December: final testing
-    - Wednesday 4 December: Setup for showcase
-    - Friday 6 December: Showcase opens until Friday 13 December
-    - Saturday 7 December: Documentation and completed project code is due for submission.
+ - Week 11  Discussion, working on proposals
+ - Week 12  Presentation of proposals; start working on projects
+ - Week 13  Working on projects
+ - Week 14  Projects get finished
+    - Monday 2 December: National Day - no class
+    - Wednesday 4 December: Studio Class, testing
+ - Week 15
+    - Monday 9 December: Presentations; final testing
+    - Wednesday 11 December: Setup for showcase
+    - Thursday 12 December: Showcase takes place
+    - Friday 13 December: Documentation and completed project code is due for submission.
