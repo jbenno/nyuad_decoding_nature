@@ -1,5 +1,5 @@
 # Decoding Nature - IM-UH 2318
-
+### Capturing and modelling complexity in code: Laws of motion, complex systems, generative art.
 *This is still the draft syllabus and subject to change*
 *It will become my version of Daniel Shiffman's book and class, taught at NYUAD previously by Aaron Sherwood.*
 *My thanks to both of them. Please see the links to their material below*
@@ -19,7 +19,7 @@ Office Hours: Tuesdays. Please make an appointment via mail.
 
 [Daniel Shiffman: Nature of Code](https://natureofcode.com)\
 [Daniel Shiffman's Syllabus](https://github.com/nature-of-code/noc-syllabus-S19)\
-[Aaron Sherwood's Homepage](http://aaron-sherwood.com)
+[Syllabus of Decoding Nature Fall 2018](http://decodingnature.nyuadim.com/syllabus/)
 
 
 ## Schedule
