@@ -40,8 +40,14 @@
 ### Supervised Learning: Regression, prediction
 - Linear regression
 - Discriminant analysis
+- kNN (k-Nearest-Neighbors)
 - Perceptron
 - Multilayer perceptron (Neural Network)
+
+### Unsubervised Learning: Pattern recognition
+- "Distance metrics": Euclidean, p-metric (Hölder metric), neigborhood functions in grids, cosine distance, ...
+- Cluster analysis
+- Self organizing maps
 
 ### TensorFlow
 - [TensorFlow for beginners](http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005584260&context=L&vid=NYU&search_scope=all&tab=all&lang=en_US)
