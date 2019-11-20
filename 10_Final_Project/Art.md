@@ -27,6 +27,14 @@
   [See something, say something](https://www.flickr.com/photos/walkingsf/sets/72157627140310742/ )
 - Rama Karl Hoetzlein  
   [Data visualization at Seattle Library](http://ramakarl.com/spl/)
+- Heather Dewey-Hagborg  
+  [How do you see me?](http://deweyhagborg.com/projects/how-do-you-see-me)
+- Trevor Paglen and Kate Crawford  
+  [Excavating AI](https://www.excavating.ai)  
+  [Training Humans](http://www.fondazioneprada.org/project/training-humans/?lang=en)
+- Zach Blas  
+  [I am here to learn so :))))))](http://www.zachblas.info/works/im-here-to-learn-so/)  
+  [Icosahedron](http://www.zachblas.info/works/icosahedron/)
   
   ## Data visualization in the project *Our World in Data*
   - https://ourworldindata.org
