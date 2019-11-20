@@ -8,6 +8,10 @@ The creative concept presents your idea, the point of differentiation of the pro
 
 The goal is to have the project be presentable at the IM show case.
 
+### Examples of interactive media and generative art
+... as discussed in class:
+[Art](/10_Final_Project/Art.md)
+
 ### Requirements
 
 #### Project concept, documentation and prestenation
