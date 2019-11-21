@@ -12,7 +12,7 @@
 - [DIRTY DATA, BAD PREDICTIONS: HOW CIVIL RIGHTS VIOLATIONS IMPACT POLICE DATA, RICHARDSON et al.](https://www.nyulawreview.org/wp-content/uploads/2019/04/NYULawReview-94-Richardson-Schultz-Crawford.pdf)
 - [DISCRIMINATING SYSTEMS: Gender, Race, and Power in AI, West et al.](https://ainowinstitute.org/discriminatingsystems.pdf)
 - [Hikvision Markets Uyghur Ethnicity Analytics, Now Covers Up](https://ipvm.com/reports/hikvision-uyghur)
-- [Emotion recognition is China's new surveillance craze}(https://www.straitstimes.com/asia/east-asia/emotion-recognition-is-chinas-new-surveillance-craze)
+- [Emotion recognition is China's new surveillance craze](https://www.straitstimes.com/asia/east-asia/emotion-recognition-is-chinas-new-surveillance-craze)
 
 ### AI Art
 - Heather Dewey-Hagborg: [How do you see me?](http://deweyhagborg.com/projects/how-do-you-see-me)
