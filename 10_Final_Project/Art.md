@@ -35,9 +35,3 @@
 - Zach Blas  
   [I am here to learn so :))))))](http://www.zachblas.info/works/im-here-to-learn-so/)  
   [Icosahedron](http://www.zachblas.info/works/icosahedron/)
-  
-  ## Data visualization in the project *Our World in Data*
-  - https://ourworldindata.org
-  - [Gapminder animated charts](https://www.gapminder.org/tools/#$state$time$value=2018;;&chart-type=bubbles)
-  - [Example how to animate the charts](https://nowosad.github.io/post/life-expectancy-animated/)
-  - [Recreating Gapminder using Chart.js](https://www.createwithdata.com/gapminder-chartjs/)
