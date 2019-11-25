@@ -45,7 +45,6 @@
 - [bitforms](https://bitforms.art/)
 
 #### Some historic examples of interactive media
-- <iframe width="560" height="315" src="https://www.youtube.com/embed/nvWwlZSXaR0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - James Whitney  
   [Yantra](https://youtu.be/nvWwlZSXaR0)  
 - John Whitney  
