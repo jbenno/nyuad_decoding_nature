@@ -57,3 +57,8 @@
   [Blossoming 2018](http://www.numeral.com/artworks/artAppliances/2009/blossoming.php)
 - Jeffrey Shaw
   [Legible City](https://www.jeffreyshawcompendium.com/portfolio/legible-city/)
+  
+#### Algorithmic Music
+- Athanasius Kircher  
+  [Organum Mathematicum](https://larkfall.wordpress.com/2014/06/06/kircher-schotts-computer-music-of-the-baroque/)
+- [Fractal Snowflake Music](https://youtu.be/GVK5N7HQf8Y)
