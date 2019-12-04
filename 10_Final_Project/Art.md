@@ -37,7 +37,7 @@
   [I am here to learn so :))))))](http://www.zachblas.info/works/im-here-to-learn-so/)  
   [Icosahedron](http://www.zachblas.info/works/icosahedron/)
 - Lynn Hershman Leeson  
-  [lynnhershman.com]
+  [http://www.lynnhershman.com]
   
 #### Art Projects, Collective, Galleries
 - [Rhizome](https://rhizome.org)
