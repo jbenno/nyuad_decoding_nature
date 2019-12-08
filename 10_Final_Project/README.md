@@ -62,6 +62,7 @@ The goal is to have the project be presentable at the IM show case.
  ### Showcase
  - Date: Thursday 12 December
  - Schedule
+  - before 17:00  Projects have to be installed
   - 18:00 to 20:00  Projects presented in room C3 006 and around
   - 20:00 to 21:00  Performances
   - from 21:00  all checked out equipment to be returned to IM Lab. Everything to be returned this evening.
