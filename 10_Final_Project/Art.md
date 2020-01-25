@@ -58,6 +58,13 @@
 - Jeffrey Shaw
   [Legible City](https://www.jeffreyshawcompendium.com/portfolio/legible-city/)
   
+## Generative Art and Design
+- Using physical things to compute, Frei Otto, the engineer who built the Munich Olympic stadium, photographed frozen soap bubbles to determine minimal surfaces which in the 1960s where way to complicated to actually calculate on machines:
+[Frei Otto: Minimal Surfaces (pdf)](https://www.moma.org/documents/moma_catalogue_2662_300299029.pdf)./
+- [Philipp Galanter, What is Generative Art? (pdf)](http://philipgalanter.com/downloads/ga2003_what_is_genart.pdf)
+- [Introduction to Generative Art](https://www.freecodecamp.org/news/an-introduction-to-generative-art-what-it-is-and-how-you-make-it-b0b363b50a70/)
+
+  
 #### Algorithmic Music
 - Athanasius Kircher  
   [Organum Mathematicum](https://larkfall.wordpress.com/2014/06/06/kircher-schotts-computer-music-of-the-baroque/)
