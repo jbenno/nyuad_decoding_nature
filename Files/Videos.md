@@ -9,4 +9,11 @@
 3.
   - https://www.youtube.com/watch?v=Rj9g5-OtdC0&t=4290s
 4.
-  - 
+  - https://www.youtube.com/watch?v=sJz3rmGqREg
+  - https://www.youtube.com/watch?v=OJ-YNgqbx5A&t=2s
+  
+5.
+  - https://www.youtube.com/watch?v=f-5dV7nrj1E
+  
+6./7.
+  - https://www.youtube.com/watch?v=n-8ZuEwUe1k
