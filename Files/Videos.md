@@ -17,3 +17,7 @@
   
 6./7.
   - https://www.youtube.com/watch?v=n-8ZuEwUe1k
+  - https://www.youtube.com/watch?v=1A8uVtCHe4I
+  
+ 8.
+  - https://www.youtube.com/watch?v=FrcMaiTvQh4
