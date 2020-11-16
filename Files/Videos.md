@@ -19,5 +19,11 @@
   - https://www.youtube.com/watch?v=n-8ZuEwUe1k
   - https://www.youtube.com/watch?v=1A8uVtCHe4I
   
- 8.
+ 8./9.
   - https://www.youtube.com/watch?v=FrcMaiTvQh4
+  - https://www.youtube.com/watch?v=HvIBPa7ryiY
+  
+  10./11.
+  - https://www.youtube.com/watch?v=nTp2loPmPdQ
+  - https://www.youtube.com/watch?v=I0yQvXIqDyE
+  - https://www.youtube.com/watch?v=Hvv4iBLvD9g
