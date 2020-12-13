@@ -479,13 +479,7 @@ The creative concept presents your idea, the point of differentiation of the pro
 - Responsive or mobile friendly design
 - Accessibility  
   
-<sup>[&larr; Previous lecture](https://github.com/jbenno/nyuad_decoding_nature/wiki/11) |[&uarr; Back to course home page](https://github.com/jbenno/nyuad_decoding_nature/wiki)
-
-[Week by week schedule](https://github.com/jbenno/nyuad_decoding_nature/wiki)
-
-#### Instructor: Joerg Blumtritt
-#### Course Number:IM-UH 2318 
-  
+# Additional Information
 Credit Hours: 4  
 Prerequisites: IM-UH 1010, IM-UH 2310, or CS-UH 1001  
 Time:  see https://docs.google.com/spreadsheets/d/14iXBcgGNulTlkNdsm-9vlTvKXebDdKNkWFhyPTBOvao/edit#gid=0
@@ -502,7 +496,9 @@ __The lectures will be recorded and made available to students asynchronously. S
 
 - Reading and watching the provided material is required each week in advance.
 - Assigned readings and videos will be discussed in class. Preparedness (i.e. having read/watched the assigned material), active participation, and therefore attendance to the classes will be graded.
-- Assignments can be submitted via email. Submitting just a link is absolutely sufficient unless stated otherwise.
+- The week by week assignments as well as signed talks and presentations can be found in this spreadsheet: https://docs.google.com/spreadsheets/d/1LVPk7OmhUpddOixnL7hCac3oQGZJfU2UoV2SM9Q5IcE/edit?usp=sharing
+- Please submit your writing or other materials through NYU Classes or via email. Links are fine, too.
+- It helps if you put [Decoding Nature] in front of the email subject.
 
 ## Grades and Rubrics
 
@@ -538,19 +534,20 @@ __The lectures will be recorded and made available to students asynchronously. S
 
 If there are any questions, need for help or further instruction, please reach out to me. You may just tell me before or after class or sign up for office hours, usually on Tuesdays.
 
-## Accommodation
-Diversity and inclusion are important tenets of NYUAD and my own teaching philosophy. Please let me know if you have a disability I should be aware of or require special assistance. I am happy to make accommodations. 
+### Accommodation and Mental Health Awareness
 
-## Academic Integrity
-The mandatory policies and procedures relating to academic integrity can be found here:  
-https://www.nyu.edu/about/policies-guidelines-compliance/policies-and-guidelines/academic-integrity-for-students-at-nyu.html
+As a University student, you may experience a range of issues that can interfere with your ability to perform academically or impact your daily functioning, such as: heightened stress; anxiety; difficulty concentrating; sleep disturbance; strained relationships; grief and loss; personal struggles. If you have any well-being or mental health concerns please visit the Counseling Center on the ground floor of the campus center from 9am-5pm Abu Dhabi time Sunday - Thursday, or schedule an appointment to meet with a counselor by calling: +971 02-628-8100, or emailing: nyuad.healthcenter@nyu.edu. If you require mental health support outside of these hours call NYU's Wellness Exchange hotline at +971 02-628-5555, which is available 24 hours a day, 7 days a week. You can also utilize the Wellness Exchange mobile chat feature, details of which you can find on the student portal. If you need help connecting to these supports please contact me directly. Diversity and inclusion are important tenets of NYUAD and my own teaching philosophy. Please let me know if you have a disability I should be aware of or require special assistance. I am happy to make accommodations.
 
+### Academic Integrity
 
-## Assignments
-- The week by week assignments as well as signed talks and presentations can be found in this spreadsheet: https://docs.google.com/spreadsheets/d/1LVPk7OmhUpddOixnL7hCac3oQGZJfU2UoV2SM9Q5IcE/edit?usp=sharing
-- Please send me your writing or other materials via email. Links are fine, too.
-- It helps if you put [Decoding Nature] in front of the email subject.
+NYUAD's policies and procedures relating to academic integrity:
+At NYU Abu Dhabi, a commitment to excellence, fairness, honesty, and respect within and outside the classroom is essential to maintaining the integrity of our community. By accepting membership in this community, students, faculty, and staff take responsibility for demonstrating these values in their own conduct and for recognizing and supporting these values in others. In turn, these values create a campus climate that encourages the free exchange of ideas, promotes scholarly excellence through active and creative thought, and allows community members to achieve and be recognized for achieving their highest potential. All potential violations to this community academic integrity standard (including plagiarism) will be taken seriously and reviewed through NYUAD’s Academic Integrity Procedure. Link: https://students.nyuad.nyu.edu/campus-life/community-standards/policies/academic-integrity/
 
+### IM Lab and Tool Training
+
+Tool training is mandatory for using the IM LAB (Room C3 029).
+
+# Guidelines
 ## Critical Work and Documentation
 ### Notes
 - Make notes in a sharable doc like Google Doc or on you blog/Wordpress site
@@ -665,7 +662,6 @@ The standard writing requirement for all core courses is to write papers of form
 - https://youtu.be/15WqxmKZbTc?t=133
 - https://youtu.be/15WqxmKZbTc?t=189
 - https://youtu.be/15WqxmKZbTc?t=344
-
 
 ### Cellular automata
 - [Cellular Automata Rule 30 Prize](https://writings.stephenwolfram.com/2019/10/announcing-the-rule-30-prizes/)
