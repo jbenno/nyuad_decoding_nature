@@ -3,7 +3,7 @@
 ### Fall 2020, IM-UH 2318
 #### Joerg Blumtritt
 
-> Beauty is the first test: there is no permanent place in this world for ugly mathematics.  
+> Beauty is the first test: there is no permanent place in this world for ugly mathematics.
 > Godfrey Harold Hardy
 
 Mapping our world into 'laws of nature', detecting patterns and discovering the 'logic' behind our experience is is the core of science. The computer is for us what the microscope or the telescope had been to the researchers at the dawn of modernity: an enhancement of our mind and senses to understand and simulate these laws. With algorithms and code we can not only build models of the world but play with imaginary alternatives by changing the rules.
@@ -12,7 +12,7 @@ We will explore how basic laws of nature can be expressed in code, how complexit
 
 This is a production-based course that involves programming work both inside and outside of the classroom. During class, code examples will be presented, written, and reviewed. Examples will iteratively build off lessons learned in preceding classes and students will be encouraged to write code, ask questions, and engage in both creative and technical discussion.
 
-> Archimedes will be remembered when Aeschylus is forgotten, because languages die and mathematical ideas do not.  
+> Archimedes will be remembered when Aeschylus is forgotten, because languages die and mathematical ideas do not.
 > Godfrey Harold Hardy
 
 __The lectures will be recorded and made available to students asynchronously. Student presentations and student lead lectures can also be submitted as recordings. For discussions and questions, we will use Zoom as well as the forum function in Classes so that everybody can participate independently from their connectivity and time zone.__
@@ -31,7 +31,7 @@ __The lectures will be recorded and made available to students asynchronously. S
 - Basics of movement (physical and on the screen)
 
 #### Week 3 - [Oscillation](https://github.com/jbenno/nyuad_decoding_nature/wiki/03)
-- Waves and cycles 
+- Waves and cycles
 
 ### Part II: Complexity
 #### Week 4 and 5 - [Particle Systems](https://github.com/jbenno/nyuad_decoding_nature/wiki/04) and [Autonomous Agents](https://github.com/jbenno/nyuad_decoding_nature/wiki/05)
@@ -61,9 +61,9 @@ __The lectures will be recorded and made available to students asynchronously. S
 # Detailed Schedule
 
 # Introduction
-[Video recordings of the lecture: Video 1](https://stream.nyu.edu/media/Decoding+Nature+01a/1_2yo0n1hr)  
-[Video recordings of the lecture: Video 2](https://stream.nyu.edu/media/1_8x6its2g)  
-[Video recordings of the lecture: Video 3](https://stream.nyu.edu/media/1_jj44opnu)  
+[Video recordings of the lecture: Video 1](https://stream.nyu.edu/media/Decoding+Nature+01a/1_2yo0n1hr)
+[Video recordings of the lecture: Video 2](https://stream.nyu.edu/media/1_8x6its2g)
+[Video recordings of the lecture: Video 3](https://stream.nyu.edu/media/1_jj44opnu)
 
 
 
@@ -98,8 +98,8 @@ All code files can be found here: https://github.com/jbenno/nyuad_decoding_natur
 
 <sup>[&larr; Previous lecture](https://github.com/jbenno/nyuad_decoding_nature/wiki/01) |[&uarr; Back to course home page](https://github.com/jbenno/nyuad_decoding_nature/wiki) | [Next lecture &rarr;](https://github.com/jbenno/nyuad_decoding_nature/wiki/03)</sup>
 
-[Video recordings of the lecture: Video 1](https://stream.nyu.edu/media/1_2i8ofr0s)  
-[Video recordings of the lecture: Video 2](https://stream.nyu.edu/media/1_9pjdywv5)  
+[Video recordings of the lecture: Video 1](https://stream.nyu.edu/media/1_2i8ofr0s)
+[Video recordings of the lecture: Video 2](https://stream.nyu.edu/media/1_9pjdywv5)
 
 # Forces and Laws of Motion
 (and some maths concepts)
@@ -139,7 +139,7 @@ All code files can be found here: https://github.com/jbenno/nyuad_decoding_natur
 
 <sup>[&larr; Previous lecture](https://github.com/jbenno/nyuad_decoding_nature/wiki/02) |[&uarr; Back to course home page](https://github.com/jbenno/nyuad_decoding_nature/wiki) | [Next lecture &rarr;](https://github.com/jbenno/nyuad_decoding_nature/wiki/04)</sup>
 
-[Video recordings of the lecture](https://stream.nyu.edu/media/1_9jtxzac2)  
+[Video recordings of the lecture](https://stream.nyu.edu/media/1_9jtxzac2)
 
 # Oscillation
 
@@ -182,7 +182,7 @@ All code files can be found here: https://github.com/jbenno/nyuad_decoding_natur
 
 <sup>[&larr; Previous lecture](https://github.com/jbenno/nyuad_decoding_nature/wiki/03) |[&uarr; Back to course home page](https://github.com/jbenno/nyuad_decoding_nature/wiki) | [Next lecture &rarr;](https://github.com/jbenno/nyuad_decoding_nature/wiki/05)</sup>
 
-[Video recordings of the lecture - Part a: Generative Art](https://stream.nyu.edu/media/1_7u6clwur)  
+[Video recordings of the lecture - Part a: Generative Art](https://stream.nyu.edu/media/1_7u6clwur)
 [Video recordings of the lecture - Part b: Particle Systems](https://stream.nyu.edu/media/1_cnvl6y56)
 # Generative Art
 
@@ -220,8 +220,8 @@ All code files can be found here: https://github.com/jbenno/nyuad_decoding_natur
 # Autonomous Agents
 
 - Braitenberg, Valentino. Vehicles: Experiments in Synthetic Psychology. 1st MIT Press pbk. ed. Cambridge, Mass.: MIT Press, 1986. (For a pdf see https://www.usna.edu/Users/cs/crabbe/SI475/current/vehicles.pdf )
-- Reynolds, Craig W. “Steering Behaviors For Autonomous Characters.” Proceedings of Game Developers Conference, 1999, https://www.red3d.com/cwr/papers/1999/gdc99steer.html .  
-- Animated speculative design for city traffic with autonomous cars (at 25'30''):  
+- Reynolds, Craig W. “Steering Behaviors For Autonomous Characters.” Proceedings of Game Developers Conference, 1999, https://www.red3d.com/cwr/papers/1999/gdc99steer.html .
+- Animated speculative design for city traffic with autonomous cars (at 25'30''):
   Dunn, Anthony. “Not Here, Not Now.” Kyoto Design Lab, KYOTO INSTITUTE OF TECHNOLOGY, April 1, 2015. https://www.youtube.com/watch?v=chBiMec7KtM&feature=youtu.be&t=1534.
 
 
@@ -244,13 +244,13 @@ All code files can be found here: https://github.com/jbenno/nyuad_decoding_natur
 - [Boids following a flow field](https://editor.p5js.org/jbenno/sketches/p4DFpUK7y)
 <br>
 </br>
-  
+
 <sup>[&larr; Previous lecture](https://github.com/jbenno/nyuad_decoding_nature/wiki/04) |[&uarr; Back to course home page](https://github.com/jbenno/nyuad_decoding_nature/wiki) | [Next lecture &rarr;](https://github.com/jbenno/nyuad_decoding_nature/wiki/06)</sup>
 
 <sup>[&larr; Previous lecture](https://github.com/jbenno/nyuad_decoding_nature/wiki/05) |[&uarr; Back to course home page](https://github.com/jbenno/nyuad_decoding_nature/wiki) | [Next lecture &rarr;](https://github.com/jbenno/nyuad_decoding_nature/wiki/08)</sup>
 
-[Video recordings lecture 1](https://stream.nyu.edu/media/1_1cmpukyd)  
-[Video recordings lecture 2](https://stream.nyu.edu/media/1_sz7itqoy)  
+[Video recordings lecture 1](https://stream.nyu.edu/media/1_1cmpukyd)
+[Video recordings lecture 2](https://stream.nyu.edu/media/1_sz7itqoy)
 
 # Fractals
 
@@ -259,7 +259,7 @@ Introduction
 - Mandelbrot, Benoît B., and Nial Neger. “Fractal Geometry,” Yale University, 2020. https://users.math.yale.edu/public_html/People/frame/Fractals/.
 
 Plants
-- Prusinkiewicz, Przemyslaw, and Aristid Lindenmayer. The Algorithmic Beauty of Plants. The Virtual Laboratory. New York, NY: Springer New York, 1990. https://doi.org/10.1007/978-1-4613-8476-2.  
+- Prusinkiewicz, Przemyslaw, and Aristid Lindenmayer. The Algorithmic Beauty of Plants. The Virtual Laboratory. New York, NY: Springer New York, 1990. https://doi.org/10.1007/978-1-4613-8476-2.
 - Twitter thread of tree generators : https://twitter.com/GalaxyKate/status/1329901625281028097
 
 Geography
@@ -307,22 +307,22 @@ All code files can be found here: https://github.com/jbenno/nyuad_decoding_natur
   - [Logistic Bifurcation](https://editor.p5js.org/jbenno/sketches/mgotVMiXn)
 <br>
 </br>
-  
+
 <sup>[&larr; Previous lecture](https://github.com/jbenno/nyuad_decoding_nature/wiki/05) |[&uarr; Back to course home page](https://github.com/jbenno/nyuad_decoding_nature/wiki) | [Next lecture &rarr;](https://github.com/jbenno/nyuad_decoding_nature/wiki/08)</sup>
 
 <sup>[&larr; Previous lecture](https://github.com/jbenno/nyuad_decoding_nature/wiki/06) |[&uarr; Back to course home page](https://github.com/jbenno/nyuad_decoding_nature/wiki) | [Next lecture &rarr;](https://github.com/jbenno/nyuad_decoding_nature/wiki/10)</sup>
 
 # Cellular Automata
-[Video recording lecture 1](https://stream.nyu.edu/media/1_huv3on47)  
+[Video recording lecture 1](https://stream.nyu.edu/media/1_huv3on47)
 [Video recording lecture 2](https://stream.nyu.edu/media/1_93ksph6z)
 
 - Wolfram, Stephen. A New Kind of Science. Stephen Wolfram, LLC, 2002. https://www.wolframscience.com/nks/.
-  - [Chapter 2](http://wac.36f4.edgecastcdn.net/0036F4/pub/www.wolframscience.com/nks/nks-ch2.pdf), [Chapter 3](http://wac.36f4.edgecastcdn.net/0036F4/pub/www.wolframscience.com/nks/nks-ch3.pdf)  
+  - [Chapter 2](http://wac.36f4.edgecastcdn.net/0036F4/pub/www.wolframscience.com/nks/nks-ch2.pdf), [Chapter 3](http://wac.36f4.edgecastcdn.net/0036F4/pub/www.wolframscience.com/nks/nks-ch3.pdf)
   Criticism
-- Giles, Jim. “What Kind of Science Is This?” Nature 417, no. 6886 (May 1, 2002): 216–18. https://doi.org/10.1038/417216a.  
+- Giles, Jim. “What Kind of Science Is This?” Nature 417, no. 6886 (May 1, 2002): 216–18. https://doi.org/10.1038/417216a.
 
 1 Dimension
-- Wolfram, Stephen. “Announcing the Rule 30 Prizes.” Stephen Wolfram Writings, October 1, 2019. https://writings.stephenwolfram.com/2019/10/announcing-the-rule-30-prizes/.  
+- Wolfram, Stephen. “Announcing the Rule 30 Prizes.” Stephen Wolfram Writings, October 1, 2019. https://writings.stephenwolfram.com/2019/10/announcing-the-rule-30-prizes/.
 \
 _The Rules_
 - [Rule 184](https://en.m.wikipedia.org/wiki/Rule_184)
@@ -336,7 +336,7 @@ _The Rules_
 - Hill, Christian. “Wa-Tor World.” Learning Scientific Programming with Python, October 3, 2017. https://scipython.com/blog/wa-tor-world/.
 
 
-- Gerdner, Martin. “Conway’s Game of Life: Scientific American, October 1970.” Scientific American 223 (October 1970): 120–23. http://www.ibiblio.org/lifepatterns/october1970.html  
+- Gerdner, Martin. “Conway’s Game of Life: Scientific American, October 1970.” Scientific American 223 (October 1970): 120–23. http://www.ibiblio.org/lifepatterns/october1970.html
 
 ### Code examples
 - [Nuclear chain reaction with von-Neumann neighbourhood](https://docs.google.com/spreadsheets/d/1iPYJSMY3O_-BdAjAqwejIoCIOX19Y11Sn5ALOR0s68g/edit?usp=sharing)
@@ -346,8 +346,8 @@ _The Rules_
 - [Turing Machine demo](https://editor.p5js.org/jbenno/sketches/pxZk_UW2_)
 - [Game of Life](https://editor.p5js.org/jbenno/sketches/i2dKEMlfq)
 - [Game of Life with von Neumann neighborhood function](https://editor.p5js.org/jbenno/sketches/Zj2sz5oKU)
-- [Very simple cellular model of majorities](https://editor.p5js.org/jbenno/sketches/fV155lLmf)  
-  
+- [Very simple cellular model of majorities](https://editor.p5js.org/jbenno/sketches/fV155lLmf)
+
 <sup>[&larr; Previous lecture](https://github.com/jbenno/nyuad_decoding_nature/wiki/06) |[&uarr; Back to course home page](https://github.com/jbenno/nyuad_decoding_nature/wiki) | [Next lecture &rarr;](https://github.com/jbenno/nyuad_decoding_nature/wiki/10)</sup>
 
 
@@ -375,7 +375,7 @@ _The Rules_
 - Sims, Karl. ‘Artifical Evolution for Computer Graphics’. Computer Graphics, ACM SIGGRAPH ’91 Conference Proceedings, Las Vegas, Nevada, July 1991, 25, no. 4 (July 1991): 319–28. http://www.karlsims.com/papers/siggraph91.html
 - Sims, Karl. "Evolving Virtual Creatures." Paper presented at SIGGRAPH '94: The 21st Annual Conference on Computer Graphics and Interactive Techniques, Orlando, FL, July 24-29, 1994. http://www.karlsims.com/papers/siggraph94.pdf
 - Holland, John H. “Genetic Algorithms.” Scientific American 267, no. 1 (1992): 66–73. https://www.jstor.org/stable/24939139.
-- Dewdney, A. K. “Exploring the Field of Genetic Algorithms. COMPUTER RECREATIONS.” Scientific American 253, no. 5 (1985): 21–33. https://www.jstor.org/stable/24967834.  
+- Dewdney, A. K. “Exploring the Field of Genetic Algorithms. COMPUTER RECREATIONS.” Scientific American 253, no. 5 (1985): 21–33. https://www.jstor.org/stable/24967834.
 
 ## Studio
 - [Code Examples](https://github.com/nature-of-code/noc-examples-p5.js/tree/master/chp09_ga)
@@ -383,11 +383,11 @@ _The Rules_
 <sup>[&larr; Previous lecture](https://github.com/jbenno/nyuad_decoding_nature/wiki/08) |[&uarr; Back to course home page](https://github.com/jbenno/nyuad_decoding_nature/wiki) | [Next lecture &rarr;](https://github.com/jbenno/nyuad_decoding_nature/wiki/11)</sup>
 
 
-<sup>[&larr; Previous lecture](https://github.com/jbenno/nyuad_decoding_nature/wiki/10) |[&uarr; Back to course home page](https://github.com/jbenno/nyuad_decoding_nature/wiki) | [Next lecture &rarr;](https://github.com/jbenno/nyuad_decoding_nature/wiki/12)</sup>  
+<sup>[&larr; Previous lecture](https://github.com/jbenno/nyuad_decoding_nature/wiki/10) |[&uarr; Back to course home page](https://github.com/jbenno/nyuad_decoding_nature/wiki) | [Next lecture &rarr;](https://github.com/jbenno/nyuad_decoding_nature/wiki/12)</sup>
 
 # Neural Networks and AI
-[Video 1: Introduction to Neural Networks](https://stream.nyu.edu/media/1_lk6lzzeh)  
-[Video 2: Walk through demo code](https://stream.nyu.edu/media/1_mg6jsjd1)  
+[Video 1: Introduction to Neural Networks](https://stream.nyu.edu/media/1_lk6lzzeh)
+[Video 2: Walk through demo code](https://stream.nyu.edu/media/1_mg6jsjd1)
 [Video 3: AI Art and Philosophy](https://stream.nyu.edu/media/1_e28w28da)
 
 ## AI Philosophy and Art
@@ -416,7 +416,7 @@ Marcus, Gary. “An Epidemic of AI Misinformation.” The Gradient, November 30,
 
 ### Philosophical Zombies (or p-Zombies)
 
-> Philosophical zombies are physical and behavioral duplicates of normal conscious humans, without consciousness.  The conceivability argument against materialism runs roughly as follows: (1) Zombies are conceivable; (2) If zombies are conceivable, zombies are possible; (3) If zombies are possible, materialism is false; therefore (4) Materialism is false.  
+> Philosophical zombies are physical and behavioral duplicates of normal conscious humans, without consciousness.  The conceivability argument against materialism runs roughly as follows: (1) Zombies are conceivable; (2) If zombies are conceivable, zombies are possible; (3) If zombies are possible, materialism is false; therefore (4) Materialism is false.
 > _David Chalmers (https://philpapers.org/browse/zombies-and-the-conceivability-argument)_
 
 - Kirk, Robert. “Zombies.” In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Spring 2019. Metaphysics Research Lab, Stanford University, 2019. https://plato.stanford.edu/archives/spr2019/entries/zombies/.
@@ -433,8 +433,8 @@ Marcus, Gary. “An Epidemic of AI Misinformation.” The Gradient, November 30,
 
 ### Code examples
 - [Multilayer Perceptron](https://editor.p5js.org/jbenno/sketches/7T_fObjb3)
-- Here is the Google Spread Sheet for the "spread sheet neural network": https://docs.google.com/spreadsheets/d/1LNcokuQ2SIAgEieiM_uuLRhnSC08tvGrGP1sJ16CGSA/edit?usp=sharing  
-... and the finished network:  
+- Here is the Google Spread Sheet for the "spread sheet neural network": https://docs.google.com/spreadsheets/d/1LNcokuQ2SIAgEieiM_uuLRhnSC08tvGrGP1sJ16CGSA/edit?usp=sharing
+... and the finished network:
 - - [Multilayer perceptron on a spreadsheet](https://docs.google.com/spreadsheets/d/1vu0XH4NW4FFMMNhj0mF69kyhv3HMM4mPDwAYx-40f_0/edit?usp=sharing)
 
 ### Other examples
@@ -448,8 +448,8 @@ Marcus, Gary. “An Epidemic of AI Misinformation.” The Gradient, November 30,
 ### TensorFlow
 - [TensorFlow for beginners](http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005584260&context=L&vid=NYU&search_scope=all&tab=all&lang=en_US)
 - [Introduction to TensorFlow-Slim : complex TensorFlow model building and training made easy by Marvin Bertin](http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005580498&context=L&vid=NYU&search_scope=all&tab=all&lang=en_US)
-- [Learning TensorFlow : a guide to building deep learning systems by Hope et al.](http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005581567&context=L&vid=NYU&search_scope=all&tab=all&lang=en_US)  
-  
+- [Learning TensorFlow : a guide to building deep learning systems by Hope et al.](http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005581567&context=L&vid=NYU&search_scope=all&tab=all&lang=en_US)
+
 <sup>[&larr; Previous lecture](https://github.com/jbenno/nyuad_decoding_nature/wiki/10) |[&uarr; Back to course home page](https://github.com/jbenno/nyuad_decoding_nature/wiki) | [Next lecture &rarr;](https://github.com/jbenno/nyuad_decoding_nature/wiki/12)</sup>
 
 <sup>[&larr; Previous lecture](https://github.com/jbenno/nyuad_decoding_nature/wiki/11) |[&uarr; Back to course home page](https://github.com/jbenno/nyuad_decoding_nature/wiki)
@@ -477,11 +477,11 @@ The creative concept presents your idea, the point of differentiation of the pro
 
 *Extra Credits:*
 - Responsive or mobile friendly design
-- Accessibility  
-  
+- Accessibility
+
 # Additional Information
-Credit Hours: 4  
-Prerequisites: IM-UH 1010, IM-UH 2310, or CS-UH 1001  
+Credit Hours: 4
+Prerequisites: IM-UH 1010, IM-UH 2310, or CS-UH 1001
 Time:  see https://docs.google.com/spreadsheets/d/14iXBcgGNulTlkNdsm-9vlTvKXebDdKNkWFhyPTBOvao/edit#gid=0
 __The lectures will be recorded and made available to students asynchronously. Student presentations and student lead lectures can also be submitted as recordings. For discussions and questions, we will use Zoom as well as the forum function in Classes so that everybody can participate independently from their connectivity and time zone.__
 
@@ -491,7 +491,7 @@ __The lectures will be recorded and made available to students asynchronously. S
 - Creativity and maker mindset in a studio-class setup: take apart and repurpose, draft, design, and build.
 - Presentation and discussion: Classes include prepared short presentations by students and discussions on the readings and other assigned material.
 - Inclusion and diversity: We will respect each other in our specific culture and personal values, we will focus on listening to everybody’s voice, in class and by focussing on material outside the mainstream.
- 
+
 ## Assignments
 
 - Reading and watching the provided material is required each week in advance.
@@ -524,7 +524,7 @@ __The lectures will be recorded and made available to students asynchronously. S
 
 - Attendance is mandatory. Unexcused absences or habitual lateness will negatively impact your grade for the class. Being late for more than 15 minutes with no excuse will count as an unexcused absence. Two unexcused absences will result in a decrease in your overall final grade (i.e. B+ to B). Three will result in an entire letter grade drop (i.e. from A to B). Four will result in two letter grade drops (i.e. from A to C). More than four unexcused absences will result in an F.
 - Engaging in the class discussion, offering feedback to peers, and being mentally present is a major part of the grade.
-- Presenting work and writing in class is required, giving talks on topics is expected. 
+- Presenting work and writing in class is required, giving talks on topics is expected.
 
 ### Social Media, Messaging, Notifications
 - Absolutely no use of social media or messaging services in class - neither on phone nor on laptop except when it is the explicit topic.
@@ -559,7 +559,7 @@ The standard writing requirement for all core courses is to write papers of form
 - Develop well-reasoned and persuasive arguments
 - Use evidence to make points
 - Engage with the thinking of others
-- Credit and cite appropriate sources accurately according to the Chicago Manual of Style https://www.chicagomanualofstyle.org/tools_citationguide.html 
+- Credit and cite appropriate sources accurately according to the Chicago Manual of Style https://www.chicagomanualofstyle.org/tools_citationguide.html
 
 ### Writing informal pieces
 - 3000 to 6000 characters
