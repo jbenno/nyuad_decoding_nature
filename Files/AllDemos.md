@@ -2,7 +2,7 @@
 ### Instructor Joerg Blumtritt, https://github.com/jbenno/nyuad_decoding_nature/wiki
 
 
-```
+```JS
  /* CA(s,t,[pattern optional]) is the cellular automaton with cell width s, and t the number of the rule in Stephen Wolfram's notation. Some of the automata can do computations and even act as Turing machines. The optional constant pattern acts as input of the automaton, the program code to be executed.
 
 Joerg Blumtritt, https://github.com/jbenno/nyuad_decoding_nature/wiki
