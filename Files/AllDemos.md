@@ -577,7 +577,7 @@ function BFern(X) {
   if(n<nMax) { //avoid infinite recursion by limiting the number of steps
     stroke('#009933');
     strokeWeight(1);
-    //rescaling the range −2.1820 < x < 2.6558 and 0 ≤ y < 9.9983 to the canvas size.
+    //rescaling the range -2.1820 < x < 2.6558 and 0 ≤ y < 9.9983 to the canvas size.
     let px = map(X.x, -2.1820, 2.6558, 0, width);
     let py = map(X.y, 0, 9.9983, height, 0);
     point(px, py);
@@ -3293,4 +3293,5 @@ function draw() {
   a=rnd(s);
   console.log(a);
 }
+
 ```
